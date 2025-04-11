@@ -4,7 +4,7 @@ This GUI-based MATLAB tool computes time-resolved septal curvature (curvature of
 2. Manual septal curvature computation (See 'Citation' section for original work)  
 <br/>
 
-![Two options: manual and automated septal curvatue computation](https://github.com/CU-Anschutz-Advanced-Imaging-Lab/septalCurvatureTool/tree/main/images/septalCurvatureTool_options.png)
+<img src="https://github.com/CU-Anschutz-Advanced-Imaging-Lab/septalCurvatureTool/blob/94e249131da1855f36781e399ff60d2e00e5423e/images/septalCurvatureTool_options.png" alt="twoApproaches" width="1000px">
 
 <br/>
 <br/>
