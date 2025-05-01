@@ -10,7 +10,7 @@ This GUI-based MATLAB tool computes time-resolved septal curvature (curvature of
 <br/>
 
 # Note
-- Currently GUI may not work properly on Apple Silicon MACs. 
+- Use [Native Apple silicon MATLAB][1] if you're on Apple silicon Mac. 
 - The tool has been tested only for Philips data.
 <br/>
 <br/>
@@ -53,3 +53,4 @@ This conference abstract is the original citation for this tool (a manuscript in
 If you use the manual septal curvature computation functionality, please also cite this original work:
 > Pandya B, Quail MA, Steeden JA, McKee A, Odille F, Taylor AM, Schulze-Neick I, Derrick G, Moledina S, Muthurangu V. Real-time magnetic resonance assessment of septal curvature accurately tracks acute hemodynamic changes in pediatric pulmonary hypertension. Circ Cardiovasc Imaging. 2014 Jul;7(4):706-13. doi: 10.1161/CIRCIMAGING.113.001156. Epub 2014 Apr 25. PMID: 24771555.
 
+[1]:https://www.mathworks.com/support/requirements/apple-silicon.html
