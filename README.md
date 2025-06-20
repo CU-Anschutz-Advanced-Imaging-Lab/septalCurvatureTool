@@ -45,6 +45,16 @@ This GUI-based MATLAB tool computes time-resolved septal curvature (curvature of
 <br/>
 <br/>
 
+# Demo
+## Automated approach
+https://github.com/user-attachments/assets/05c90a3f-aa92-4302-aecc-a3aac7b367f1
+
+## Manual approach
+https://github.com/user-attachments/assets/efd38f1b-4b3f-4ca6-9f15-a3210b894425
+
+<br/>
+<br/>
+
 # Citation
 This conference abstract is the original citation for this tool (a manuscript in preparation):
 
